@@ -130,7 +130,7 @@
 	<div class="disfooter">
 		<c:import url="search.jsp"></c:import>
 	</div>
-
+testtesttest
 	<!-- 파워링크가 없을 때 보여주지 않는다. -->
 	<c:if test="${powerSize!=0}">
 	
